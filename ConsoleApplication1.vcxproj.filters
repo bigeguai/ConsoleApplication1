@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="strngbad.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -34,6 +31,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="tabtenn0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\repos\main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
